@@ -1,0 +1,17 @@
+[
+    {
+        "course_code": "C001",
+        "name": "Lập trình PHP",
+        "credits": 3
+    },
+    {
+        "course_code": "C002",
+        "name": "Cơ sở dữ liệu",
+        "credits": 3
+    },
+    {
+        "course_code": "C003",
+        "name": "Mạng máy tính",
+        "credits": 2
+    }
+]

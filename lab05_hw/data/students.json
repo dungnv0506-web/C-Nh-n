@@ -1,0 +1,16 @@
+[
+    {
+        "student_code": "SV001",
+        "full_name": "Nguyễn Văn Dũng",
+        "class_name": "DCCNTT.14.1",
+        "email": "20230248@eaut.edu.vn",
+        "password_hash": "$2y$10$\/PB5qkhoklk3m6oyUgqID.yuy3Ffy0ZRuUrr0SexBBIWlv4K0ZJku"
+    },
+    {
+        "student_code": "SV002",
+        "full_name": "Trần Thị B",
+        "class_name": "DCCNTT13",
+        "email": "b@example.com",
+        "password_hash": "$2y$10$7PUskWCnum2JvHk0qV4iIO\/xW.Fw6CULjHzXxfKmFWaebtrb9zKWu"
+    }
+]
